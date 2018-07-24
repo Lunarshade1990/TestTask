@@ -16,4 +16,17 @@
   UserDataImpController отвечает за формирование страниц с запросами. Представления формируются в файлах jsp, в которые передаются
   полученные от UserDataImpl List<UserData>.
   
+  Ссылки, используемые в проекте:
+  
+  Главная страница:
+  http://localhost:8080/main-page
+  
+  Список пользователей, не закончивших операцию:
+  http://localhost:8080/unfinished_users
+  
+  5 самых популярных форм:
+  http://localhost:8080/top-five-form-controller
+  
+  формы за последний час:
+  http://localhost:8080/used-form-for-last-hour
   
